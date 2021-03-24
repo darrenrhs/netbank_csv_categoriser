@@ -1,4 +1,5 @@
-# Some examples provided here, you can add your own based on how transactions are listed in your CSV. Names are case-sensitive.
+# Some examples provided here, you can add your own based on how transactions are listed in your CSV. 
+# Rename this file to categories.py and place in same dir as netbank_csv_categoriser.py
 
 categories = {
         "groceries": ["ALDI STORES", "WOOLWORTHS", "COLES"], 
