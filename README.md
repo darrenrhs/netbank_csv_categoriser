@@ -3,4 +3,4 @@ Categorises transaction from the Netbank CSV export function into groups such as
 
 Requires pytz
 
-ghuighuig
+ghuighuignjkbnkjb
